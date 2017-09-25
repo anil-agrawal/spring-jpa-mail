@@ -1,0 +1,18 @@
+{
+	"receivers": [
+		{
+			"name": "default",
+			"info": "default",
+			"host": "imap.gmail.com",
+			"protocol": "imap",
+			"storeType": "imaps",
+			"storeFolder": "INBOX",
+			"email": "receiveremail@gmail.com",
+			"password": "receiverpassword",
+			"enableSSL": true,
+			"active": true,
+			"storeAsBinary": true,
+			"pollingInterval": 5000
+		}
+	]
+}

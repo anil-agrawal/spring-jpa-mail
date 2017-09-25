@@ -1,0 +1,20 @@
+# Target Files
+/target
+/mails
+
+# logs
+/logs
+
+/docs
+
+# Eclipse related files
+/.classpath
+/.project
+/.settings
+/.factorypath
+
+# web application files or other files
+/.apt_generated/
+
+# other files
+/*.db
